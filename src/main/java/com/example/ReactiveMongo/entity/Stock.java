@@ -12,14 +12,14 @@ import org.springframework.data.mongodb.core.mapping.Document;
 @AllArgsConstructor
 @ToString
 @Document
-public class IceStockL1 {
+public class Stock {
 
     @Id
     private String id;
     private String symbol;  		//  13 symbol
     private String price;			//  19  price
 
-    public IceStockL1(String symbol, String price) {
+    public Stock(String symbol, String price) {
         this.symbol = symbol;
         this.price = price;
     }

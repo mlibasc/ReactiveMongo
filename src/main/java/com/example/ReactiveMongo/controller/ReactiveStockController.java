@@ -1,6 +1,6 @@
 package com.example.ReactiveMongo.controller;
 
-import com.example.ReactiveMongo.entity.IceStockL1;
+import com.example.ReactiveMongo.entity.Stock;
 import com.example.ReactiveMongo.repository.StockRepository;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
@@ -26,17 +26,17 @@ public class ReactiveStockController {
     private final StockRepository stockRepo;
 
     @GetMapping(value = "/allStocks", produces = MediaType.APPLICATION_STREAM_JSON_VALUE)
-    public Flux<IceStockL1> stocks(){
+    public Flux<Stock> stocks(){
         log.info("Stocks BEGIN");
         stockRepo.count().subscribe(result -> log.info("Records: {}", result));
-        Flux<IceStockL1> all = stockRepo.findAll();
+        Flux<Stock> all = stockRepo.findAll();
         log.info("Stocks END");
         return all.delayElements(Duration.ofMillis(100));
 
     }
 
     @GetMapping(value = "/stocks/{symbol}", produces = MediaType.APPLICATION_STREAM_JSON_VALUE)
-    public Flux<IceStockL1> getOneStock(@PathVariable("symbol") String symbol){
+    public Flux<Stock> getOneStock(@PathVariable("symbol") String symbol){
         return this.stockRepo.findBySymbol(symbol)
                 .repeatWhen(flux -> flux.delayElements(Duration.ofSeconds(1)))
                 .subscribeOn(Schedulers.boundedElastic());

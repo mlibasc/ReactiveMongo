@@ -1,20 +1,12 @@
 package com.example.ReactiveMongo;
 
-import com.example.ReactiveMongo.entity.IceStockL1;
 import com.example.ReactiveMongo.repository.StockRepository;
-import com.fasterxml.jackson.core.type.TypeReference;
-import com.fasterxml.jackson.databind.ObjectMapper;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;
-import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.core.io.Resource;
 import org.springframework.data.mongodb.repository.config.EnableReactiveMongoRepositories;
-import reactor.core.publisher.Flux;
-
-import java.time.Duration;
-import java.util.List;
 
 @SpringBootApplication
 @EnableReactiveMongoRepositories

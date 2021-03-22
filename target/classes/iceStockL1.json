@@ -1,0 +1,1396 @@
+[{
+  "_id": {
+    "$oid": "604bbb09e6bcd7e57083c987"
+  },
+  "symbol": "AAPL",
+  "price": "2",
+  "bid": "1",
+  "ask": "1",
+  "accvol": "1",
+  "open": "1",
+  "prev": "1",
+  "change": "1",
+  "changepct": "1",
+  "type": "1",
+  "msg": "1"
+},{
+  "_id": {
+    "$oid": "604bbb09e6bcd7e57083c988"
+  },
+  "symbol": "GME",
+  "price": "2",
+  "bid": "2",
+  "ask": "2",
+  "accvol": "2",
+  "open": "2",
+  "prev": "2",
+  "change": "2",
+  "changepct": "2",
+  "type": "2",
+  "msg": "2"
+},{
+  "_id": {
+    "$oid": "604bbb09e6bcd7e57083c989"
+  },
+  "symbol": "BB",
+  "price": "3",
+  "bid": "3",
+  "ask": "3",
+  "accvol": "3",
+  "open": "3",
+  "prev": "3",
+  "change": "3",
+  "changepct": "3",
+  "type": "3",
+  "msg": "3"
+},{
+  "_id": {
+    "$oid": "604bbb09e6bcd7e57083c98a"
+  },
+  "symbol": "NTO",
+  "price": "76",
+  "bid": "30",
+  "ask": "26",
+  "accvol": "54",
+  "open": "88",
+  "prev": "76",
+  "change": "72",
+  "changepct": "30",
+  "type": "4",
+  "msg": "51"
+},{
+  "_id": {
+    "$oid": "604bbb0be6bcd7e57083c98b"
+  },
+  "symbol": "ADC",
+  "price": "79",
+  "bid": "40",
+  "ask": "0",
+  "accvol": "56",
+  "open": "82",
+  "prev": "52",
+  "change": "43",
+  "changepct": "67",
+  "type": "73",
+  "msg": "11"
+},{
+  "_id": {
+    "$oid": "604bbb0de6bcd7e57083c98c"
+  },
+  "symbol": "ADC",
+  "price": "58",
+  "bid": "89",
+  "ask": "74",
+  "accvol": "56",
+  "open": "26",
+  "prev": "81",
+  "change": "93",
+  "changepct": "36",
+  "type": "40",
+  "msg": "41"
+},{
+  "_id": {
+    "$oid": "604bbb0de6bcd7e57083c98d"
+  },
+  "symbol": "TNS",
+  "price": "44",
+  "bid": "29",
+  "ask": "66",
+  "accvol": "55",
+  "open": "55",
+  "prev": "24",
+  "change": "81",
+  "changepct": "57",
+  "type": "89",
+  "msg": "58"
+},{
+  "_id": {
+    "$oid": "604bbb0de6bcd7e57083c98e"
+  },
+  "symbol": "NTO",
+  "price": "99",
+  "bid": "20",
+  "ask": "94",
+  "accvol": "54",
+  "open": "64",
+  "prev": "34",
+  "change": "32",
+  "changepct": "63",
+  "type": "68",
+  "msg": "28"
+},{
+  "_id": {
+    "$oid": "604bbb11e6bcd7e57083c98f"
+  },
+  "symbol": "BPZ",
+  "price": "33",
+  "bid": "33",
+  "ask": "11",
+  "accvol": "26",
+  "open": "73",
+  "prev": "5",
+  "change": "0",
+  "changepct": "85",
+  "type": "52",
+  "msg": "30"
+},{
+  "_id": {
+    "$oid": "604bbb1204a07b0156290e6b"
+  },
+  "symbol": "symbol0",
+  "price": "843",
+  "bid": "6982",
+  "ask": "4736",
+  "accvol": "3662",
+  "open": "1396",
+  "prev": "3700",
+  "change": "6949",
+  "changepct": "9548",
+  "type": "5073",
+  "msg": "5023"
+},{
+  "_id": {
+    "$oid": "604bbb1204a07b0156290e6c"
+  },
+  "symbol": "symbol1",
+  "price": "3157",
+  "bid": "8112",
+  "ask": "5987",
+  "accvol": "1960",
+  "open": "3158",
+  "prev": "5146",
+  "change": "921",
+  "changepct": "610",
+  "type": "1633",
+  "msg": "2734"
+},{
+  "_id": {
+    "$oid": "604bbb1204a07b0156290e6d"
+  },
+  "symbol": "symbol2",
+  "price": "9718",
+  "bid": "922",
+  "ask": "6152",
+  "accvol": "7953",
+  "open": "9381",
+  "prev": "1341",
+  "change": "7683",
+  "changepct": "3814",
+  "type": "2964",
+  "msg": "8238"
+},{
+  "_id": {
+    "$oid": "604bbb1204a07b0156290e6e"
+  },
+  "symbol": "symbol3",
+  "price": "9079",
+  "bid": "7707",
+  "ask": "9509",
+  "accvol": "2950",
+  "open": "4804",
+  "prev": "4462",
+  "change": "5718",
+  "changepct": "9504",
+  "type": "5835",
+  "msg": "6714"
+},{
+  "_id": {
+    "$oid": "604bbb1204a07b0156290e6f"
+  },
+  "symbol": "symbol4",
+  "price": "8991",
+  "bid": "521",
+  "ask": "8764",
+  "accvol": "3314",
+  "open": "143",
+  "prev": "4032",
+  "change": "1497",
+  "changepct": "4010",
+  "type": "7065",
+  "msg": "3753"
+},{
+  "_id": {
+    "$oid": "604bbb1204a07b0156290e70"
+  },
+  "symbol": "symbol5",
+  "price": "9641",
+  "bid": "1644",
+  "ask": "6393",
+  "accvol": "5416",
+  "open": "7633",
+  "prev": "7482",
+  "change": "2741",
+  "changepct": "8388",
+  "type": "9713",
+  "msg": "3826"
+},{
+  "_id": {
+    "$oid": "604bbb1204a07b0156290e71"
+  },
+  "symbol": "symbol6",
+  "price": "8090",
+  "bid": "9415",
+  "ask": "858",
+  "accvol": "8398",
+  "open": "4028",
+  "prev": "458",
+  "change": "223",
+  "changepct": "2300",
+  "type": "5648",
+  "msg": "9153"
+},{
+  "_id": {
+    "$oid": "604bbb1204a07b0156290e72"
+  },
+  "symbol": "symbol7",
+  "price": "2795",
+  "bid": "9242",
+  "ask": "4453",
+  "accvol": "5151",
+  "open": "2362",
+  "prev": "7316",
+  "change": "4272",
+  "changepct": "514",
+  "type": "5883",
+  "msg": "3797"
+},{
+  "_id": {
+    "$oid": "604bbb1204a07b0156290e73"
+  },
+  "symbol": "symbol8",
+  "price": "9450",
+  "bid": "27",
+  "ask": "8100",
+  "accvol": "9825",
+  "open": "2803",
+  "prev": "5596",
+  "change": "787",
+  "changepct": "8366",
+  "type": "5677",
+  "msg": "9225"
+},{
+  "_id": {
+    "$oid": "604bbb1204a07b0156290e74"
+  },
+  "symbol": "symbol9",
+  "price": "7356",
+  "bid": "7048",
+  "ask": "5874",
+  "accvol": "3040",
+  "open": "8800",
+  "prev": "6308",
+  "change": "8199",
+  "changepct": "6745",
+  "type": "390",
+  "msg": "3293"
+},{
+  "_id": {
+    "$oid": "604bbb1204a07b0156290e75"
+  },
+  "symbol": "symbol10",
+  "price": "8959",
+  "bid": "9916",
+  "ask": "9910",
+  "accvol": "5952",
+  "open": "4072",
+  "prev": "3201",
+  "change": "8011",
+  "changepct": "4873",
+  "type": "4591",
+  "msg": "1609"
+},{
+  "_id": {
+    "$oid": "604bbb1204a07b0156290e76"
+  },
+  "symbol": "symbol11",
+  "price": "7512",
+  "bid": "253",
+  "ask": "6981",
+  "accvol": "9957",
+  "open": "792",
+  "prev": "1217",
+  "change": "7511",
+  "changepct": "7260",
+  "type": "2277",
+  "msg": "8616"
+},{
+  "_id": {
+    "$oid": "604bbb1204a07b0156290e77"
+  },
+  "symbol": "symbol12",
+  "price": "452",
+  "bid": "2743",
+  "ask": "6996",
+  "accvol": "1941",
+  "open": "1986",
+  "prev": "8371",
+  "change": "8376",
+  "changepct": "5323",
+  "type": "470",
+  "msg": "5499"
+},{
+  "_id": {
+    "$oid": "604bbb1204a07b0156290e78"
+  },
+  "symbol": "symbol13",
+  "price": "4630",
+  "bid": "3031",
+  "ask": "8879",
+  "accvol": "5145",
+  "open": "3899",
+  "prev": "8460",
+  "change": "7184",
+  "changepct": "7852",
+  "type": "5612",
+  "msg": "5387"
+},{
+  "_id": {
+    "$oid": "604bbb1204a07b0156290e79"
+  },
+  "symbol": "symbol14",
+  "price": "547",
+  "bid": "3482",
+  "ask": "2433",
+  "accvol": "1088",
+  "open": "6165",
+  "prev": "8128",
+  "change": "5526",
+  "changepct": "4637",
+  "type": "8915",
+  "msg": "2466"
+},{
+  "_id": {
+    "$oid": "604bbb12e6bcd7e57083c990"
+  },
+  "symbol": "NTO",
+  "price": "44",
+  "bid": "10",
+  "ask": "78",
+  "accvol": "9",
+  "open": "18",
+  "prev": "60",
+  "change": "80",
+  "changepct": "31",
+  "type": "91",
+  "msg": "98"
+},{
+  "_id": {
+    "$oid": "604bbb12e6bcd7e57083c991"
+  },
+  "symbol": "TNS",
+  "price": "62",
+  "bid": "1",
+  "ask": "1",
+  "accvol": "59",
+  "open": "69",
+  "prev": "98",
+  "change": "62",
+  "changepct": "8",
+  "type": "79",
+  "msg": "43"
+},{
+  "_id": {
+    "$oid": "604bbb16e6bcd7e57083c992"
+  },
+  "symbol": "LZX",
+  "price": "93",
+  "bid": "8",
+  "ask": "84",
+  "accvol": "63",
+  "open": "21",
+  "prev": "51",
+  "change": "32",
+  "changepct": "10",
+  "type": "69",
+  "msg": "14"
+},{
+  "_id": {
+    "$oid": "604bbb16e6bcd7e57083c993"
+  },
+  "symbol": "LZX",
+  "price": "60",
+  "bid": "60",
+  "ask": "28",
+  "accvol": "31",
+  "open": "77",
+  "prev": "76",
+  "change": "74",
+  "changepct": "57",
+  "type": "19",
+  "msg": "22"
+},{
+  "_id": {
+    "$oid": "604bbb19e6bcd7e57083c994"
+  },
+  "symbol": "LZX",
+  "price": "55",
+  "bid": "21",
+  "ask": "98",
+  "accvol": "34",
+  "open": "98",
+  "prev": "29",
+  "change": "35",
+  "changepct": "73",
+  "type": "76",
+  "msg": "53"
+},{
+  "_id": {
+    "$oid": "604bbb19e6bcd7e57083c995"
+  },
+  "symbol": "BPZ",
+  "price": "81",
+  "bid": "36",
+  "ask": "61",
+  "accvol": "80",
+  "open": "32",
+  "prev": "88",
+  "change": "91",
+  "changepct": "42",
+  "type": "97",
+  "msg": "8"
+},{
+  "_id": {
+    "$oid": "604bbb1de6bcd7e57083c996"
+  },
+  "symbol": "IUX",
+  "price": "56",
+  "bid": "36",
+  "ask": "67",
+  "accvol": "29",
+  "open": "22",
+  "prev": "47",
+  "change": "60",
+  "changepct": "17",
+  "type": "55",
+  "msg": "2"
+},{
+  "_id": {
+    "$oid": "604bbb1fe6bcd7e57083c997"
+  },
+  "symbol": "ADC",
+  "price": "49",
+  "bid": "77",
+  "ask": "72",
+  "accvol": "45",
+  "open": "92",
+  "prev": "62",
+  "change": "83",
+  "changepct": "4",
+  "type": "43",
+  "msg": "63"
+},{
+  "_id": {
+    "$oid": "604bbb20e6bcd7e57083c998"
+  },
+  "symbol": "ADC",
+  "price": "94",
+  "bid": "17",
+  "ask": "26",
+  "accvol": "95",
+  "open": "37",
+  "prev": "33",
+  "change": "46",
+  "changepct": "24",
+  "type": "47",
+  "msg": "58"
+},{
+  "_id": {
+    "$oid": "604bbb22e6bcd7e57083c999"
+  },
+  "symbol": "OUM",
+  "price": "84",
+  "bid": "18",
+  "ask": "0",
+  "accvol": "76",
+  "open": "1",
+  "prev": "51",
+  "change": "90",
+  "changepct": "75",
+  "type": "18",
+  "msg": "67"
+},{
+  "_id": {
+    "$oid": "604bbb26e6bcd7e57083c99a"
+  },
+  "symbol": "ZLY",
+  "price": "77",
+  "bid": "66",
+  "ask": "22",
+  "accvol": "36",
+  "open": "26",
+  "prev": "47",
+  "change": "71",
+  "changepct": "97",
+  "type": "1",
+  "msg": "52"
+},{
+  "_id": {
+    "$oid": "604bbb2ae6bcd7e57083c99b"
+  },
+  "symbol": "NTO",
+  "price": "1",
+  "bid": "3",
+  "ask": "38",
+  "accvol": "15",
+  "open": "3",
+  "prev": "18",
+  "change": "93",
+  "changepct": "25",
+  "type": "69",
+  "msg": "78"
+},{
+  "_id": {
+    "$oid": "604bbb2de6bcd7e57083c99c"
+  },
+  "symbol": "IUX",
+  "price": "86",
+  "bid": "29",
+  "ask": "27",
+  "accvol": "47",
+  "open": "88",
+  "prev": "39",
+  "change": "22",
+  "changepct": "62",
+  "type": "29",
+  "msg": "77"
+},{
+  "_id": {
+    "$oid": "604bbb2de6bcd7e57083c99d"
+  },
+  "symbol": "OUM",
+  "price": "57",
+  "bid": "1",
+  "ask": "29",
+  "accvol": "6",
+  "open": "57",
+  "prev": "31",
+  "change": "77",
+  "changepct": "85",
+  "type": "27",
+  "msg": "35"
+},{
+  "_id": {
+    "$oid": "604bbb2de6bcd7e57083c99e"
+  },
+  "symbol": "LMV",
+  "price": "23",
+  "bid": "76",
+  "ask": "29",
+  "accvol": "54",
+  "open": "46",
+  "prev": "8",
+  "change": "62",
+  "changepct": "97",
+  "type": "26",
+  "msg": "61"
+},{
+  "_id": {
+    "$oid": "604bbb30e6bcd7e57083c99f"
+  },
+  "symbol": "KCP",
+  "price": "22",
+  "bid": "30",
+  "ask": "57",
+  "accvol": "18",
+  "open": "14",
+  "prev": "53",
+  "change": "85",
+  "changepct": "44",
+  "type": "51",
+  "msg": "25"
+},{
+  "_id": {
+    "$oid": "604bbb31e6bcd7e57083c9a0"
+  },
+  "symbol": "ZLY",
+  "price": "22",
+  "bid": "71",
+  "ask": "6",
+  "accvol": "93",
+  "open": "15",
+  "prev": "93",
+  "change": "20",
+  "changepct": "48",
+  "type": "69",
+  "msg": "33"
+},{
+  "_id": {
+    "$oid": "604bbb35e6bcd7e57083c9a1"
+  },
+  "symbol": "IUX",
+  "price": "2",
+  "bid": "90",
+  "ask": "85",
+  "accvol": "41",
+  "open": "93",
+  "prev": "98",
+  "change": "35",
+  "changepct": "80",
+  "type": "44",
+  "msg": "96"
+},{
+  "_id": {
+    "$oid": "604bbb37e6bcd7e57083c9a2"
+  },
+  "symbol": "LMV",
+  "price": "79",
+  "bid": "86",
+  "ask": "14",
+  "accvol": "81",
+  "open": "72",
+  "prev": "77",
+  "change": "89",
+  "changepct": "75",
+  "type": "1",
+  "msg": "87"
+},{
+  "_id": {
+    "$oid": "604bbb3be6bcd7e57083c9a3"
+  },
+  "symbol": "BPZ",
+  "price": "47",
+  "bid": "81",
+  "ask": "49",
+  "accvol": "20",
+  "open": "56",
+  "prev": "55",
+  "change": "76",
+  "changepct": "77",
+  "type": "42",
+  "msg": "24"
+},{
+  "_id": {
+    "$oid": "604bbb3ee6bcd7e57083c9a4"
+  },
+  "symbol": "ADC",
+  "price": "71",
+  "bid": "63",
+  "ask": "97",
+  "accvol": "27",
+  "open": "54",
+  "prev": "35",
+  "change": "31",
+  "changepct": "94",
+  "type": "71",
+  "msg": "30"
+},{
+  "_id": {
+    "$oid": "604bbb40e6bcd7e57083c9a5"
+  },
+  "symbol": "IUX",
+  "price": "1",
+  "bid": "53",
+  "ask": "53",
+  "accvol": "68",
+  "open": "76",
+  "prev": "56",
+  "change": "77",
+  "changepct": "66",
+  "type": "14",
+  "msg": "99"
+},{
+  "_id": {
+    "$oid": "604bbb41e6bcd7e57083c9a6"
+  },
+  "symbol": "BPZ",
+  "price": "72",
+  "bid": "59",
+  "ask": "69",
+  "accvol": "60",
+  "open": "87",
+  "prev": "99",
+  "change": "37",
+  "changepct": "21",
+  "type": "3",
+  "msg": "64"
+},{
+  "_id": {
+    "$oid": "604bbb43e6bcd7e57083c9a7"
+  },
+  "symbol": "IUX",
+  "price": "57",
+  "bid": "50",
+  "ask": "53",
+  "accvol": "4",
+  "open": "31",
+  "prev": "54",
+  "change": "62",
+  "changepct": "15",
+  "type": "79",
+  "msg": "4"
+},{
+  "_id": {
+    "$oid": "604bbb43e6bcd7e57083c9a8"
+  },
+  "symbol": "OUM",
+  "price": "38",
+  "bid": "19",
+  "ask": "49",
+  "accvol": "31",
+  "open": "5",
+  "prev": "12",
+  "change": "94",
+  "changepct": "61",
+  "type": "15",
+  "msg": "86"
+},{
+  "_id": {
+    "$oid": "604bbb47e6bcd7e57083c9a9"
+  },
+  "symbol": "OUM",
+  "price": "67",
+  "bid": "77",
+  "ask": "16",
+  "accvol": "53",
+  "open": "88",
+  "prev": "97",
+  "change": "43",
+  "changepct": "25",
+  "type": "65",
+  "msg": "46"
+},{
+  "_id": {
+    "$oid": "604bbb4ae6bcd7e57083c9aa"
+  },
+  "symbol": "ADC",
+  "price": "86",
+  "bid": "10",
+  "ask": "57",
+  "accvol": "53",
+  "open": "30",
+  "prev": "0",
+  "change": "7",
+  "changepct": "71",
+  "type": "60",
+  "msg": "50"
+},{
+  "_id": {
+    "$oid": "604bbb4be6bcd7e57083c9ab"
+  },
+  "symbol": "ADC",
+  "price": "4",
+  "bid": "47",
+  "ask": "74",
+  "accvol": "86",
+  "open": "54",
+  "prev": "79",
+  "change": "92",
+  "changepct": "51",
+  "type": "1",
+  "msg": "47"
+},{
+  "_id": {
+    "$oid": "604bbb4be6bcd7e57083c9ac"
+  },
+  "symbol": "BPZ",
+  "price": "32",
+  "bid": "94",
+  "ask": "90",
+  "accvol": "44",
+  "open": "7",
+  "prev": "27",
+  "change": "62",
+  "changepct": "79",
+  "type": "9",
+  "msg": "21"
+},{
+  "_id": {
+    "$oid": "604bbb4ce6bcd7e57083c9ad"
+  },
+  "symbol": "KCP",
+  "price": "1",
+  "bid": "98",
+  "ask": "3",
+  "accvol": "56",
+  "open": "22",
+  "prev": "45",
+  "change": "61",
+  "changepct": "94",
+  "type": "94",
+  "msg": "71"
+},{
+  "_id": {
+    "$oid": "604bbb4fe6bcd7e57083c9ae"
+  },
+  "symbol": "LMV",
+  "price": "18",
+  "bid": "19",
+  "ask": "30",
+  "accvol": "42",
+  "open": "79",
+  "prev": "87",
+  "change": "38",
+  "changepct": "62",
+  "type": "73",
+  "msg": "1"
+},{
+  "_id": {
+    "$oid": "604bbb53e6bcd7e57083c9af"
+  },
+  "symbol": "NTO",
+  "price": "26",
+  "bid": "70",
+  "ask": "11",
+  "accvol": "67",
+  "open": "75",
+  "prev": "95",
+  "change": "87",
+  "changepct": "51",
+  "type": "82",
+  "msg": "43"
+},{
+  "_id": {
+    "$oid": "604bbb54e6bcd7e57083c9b0"
+  },
+  "symbol": "ADC",
+  "price": "96",
+  "bid": "77",
+  "ask": "61",
+  "accvol": "81",
+  "open": "61",
+  "prev": "66",
+  "change": "32",
+  "changepct": "99",
+  "type": "65",
+  "msg": "30"
+},{
+  "_id": {
+    "$oid": "604bbb54e6bcd7e57083c9b1"
+  },
+  "symbol": "ZLY",
+  "price": "4",
+  "bid": "81",
+  "ask": "36",
+  "accvol": "47",
+  "open": "31",
+  "prev": "7",
+  "change": "7",
+  "changepct": "84",
+  "type": "37",
+  "msg": "20"
+},{
+  "_id": {
+    "$oid": "604bbb54e6bcd7e57083c9b2"
+  },
+  "symbol": "IUX",
+  "price": "90",
+  "bid": "8",
+  "ask": "63",
+  "accvol": "85",
+  "open": "71",
+  "prev": "40",
+  "change": "5",
+  "changepct": "21",
+  "type": "93",
+  "msg": "9"
+},{
+  "_id": {
+    "$oid": "604bbb55e6bcd7e57083c9b3"
+  },
+  "symbol": "LMV",
+  "price": "77",
+  "bid": "90",
+  "ask": "8",
+  "accvol": "61",
+  "open": "80",
+  "prev": "52",
+  "change": "79",
+  "changepct": "37",
+  "type": "29",
+  "msg": "73"
+},{
+  "_id": {
+    "$oid": "604bbb58e6bcd7e57083c9b4"
+  },
+  "symbol": "OUM",
+  "price": "3",
+  "bid": "9",
+  "ask": "35",
+  "accvol": "18",
+  "open": "65",
+  "prev": "95",
+  "change": "81",
+  "changepct": "77",
+  "type": "62",
+  "msg": "57"
+},{
+  "_id": {
+    "$oid": "604bbb5ce6bcd7e57083c9b5"
+  },
+  "symbol": "OUM",
+  "price": "55",
+  "bid": "84",
+  "ask": "49",
+  "accvol": "84",
+  "open": "77",
+  "prev": "59",
+  "change": "57",
+  "changepct": "97",
+  "type": "93",
+  "msg": "39"
+},{
+  "_id": {
+    "$oid": "604bbb5fe6bcd7e57083c9b6"
+  },
+  "symbol": "KCP",
+  "price": "89",
+  "bid": "57",
+  "ask": "78",
+  "accvol": "85",
+  "open": "62",
+  "prev": "60",
+  "change": "20",
+  "changepct": "16",
+  "type": "52",
+  "msg": "82"
+},{
+  "_id": {
+    "$oid": "604bbb61e6bcd7e57083c9b7"
+  },
+  "symbol": "OUM",
+  "price": "3",
+  "bid": "57",
+  "ask": "68",
+  "accvol": "45",
+  "open": "52",
+  "prev": "56",
+  "change": "56",
+  "changepct": "50",
+  "type": "19",
+  "msg": "2"
+},{
+  "_id": {
+    "$oid": "604bbb64e6bcd7e57083c9b8"
+  },
+  "symbol": "LZX",
+  "price": "3",
+  "bid": "12",
+  "ask": "6",
+  "accvol": "82",
+  "open": "99",
+  "prev": "38",
+  "change": "51",
+  "changepct": "63",
+  "type": "60",
+  "msg": "81"
+},{
+  "_id": {
+    "$oid": "604bbb64e6bcd7e57083c9b9"
+  },
+  "symbol": "NTO",
+  "price": "63",
+  "bid": "30",
+  "ask": "18",
+  "accvol": "41",
+  "open": "71",
+  "prev": "74",
+  "change": "84",
+  "changepct": "84",
+  "type": "65",
+  "msg": "74"
+},{
+  "_id": {
+    "$oid": "604bbb64e6bcd7e57083c9ba"
+  },
+  "symbol": "BPZ",
+  "price": "50",
+  "bid": "5",
+  "ask": "48",
+  "accvol": "31",
+  "open": "56",
+  "prev": "69",
+  "change": "85",
+  "changepct": "55",
+  "type": "54",
+  "msg": "2"
+},{
+  "_id": {
+    "$oid": "604bbb66e6bcd7e57083c9bb"
+  },
+  "symbol": "LZX",
+  "price": "7",
+  "bid": "29",
+  "ask": "16",
+  "accvol": "71",
+  "open": "87",
+  "prev": "53",
+  "change": "81",
+  "changepct": "12",
+  "type": "51",
+  "msg": "93"
+},{
+  "_id": {
+    "$oid": "604bbb69e6bcd7e57083c9bc"
+  },
+  "symbol": "BPZ",
+  "price": "77",
+  "bid": "2",
+  "ask": "72",
+  "accvol": "91",
+  "open": "18",
+  "prev": "95",
+  "change": "94",
+  "changepct": "27",
+  "type": "53",
+  "msg": "90"
+},{
+  "_id": {
+    "$oid": "604bbb6ae6bcd7e57083c9bd"
+  },
+  "symbol": "BPZ",
+  "price": "24",
+  "bid": "25",
+  "ask": "43",
+  "accvol": "52",
+  "open": "54",
+  "prev": "95",
+  "change": "42",
+  "changepct": "82",
+  "type": "24",
+  "msg": "49"
+},{
+  "_id": {
+    "$oid": "604bbb6be6bcd7e57083c9be"
+  },
+  "symbol": "ZLY",
+  "price": "89",
+  "bid": "20",
+  "ask": "99",
+  "accvol": "43",
+  "open": "45",
+  "prev": "80",
+  "change": "36",
+  "changepct": "36",
+  "type": "64",
+  "msg": "73"
+},{
+  "_id": {
+    "$oid": "604bbb6be6bcd7e57083c9bf"
+  },
+  "symbol": "KCP",
+  "price": "75",
+  "bid": "8",
+  "ask": "81",
+  "accvol": "68",
+  "open": "63",
+  "prev": "92",
+  "change": "30",
+  "changepct": "99",
+  "type": "89",
+  "msg": "6"
+},{
+  "_id": {
+    "$oid": "604bbb6ee6bcd7e57083c9c0"
+  },
+  "symbol": "TNS",
+  "price": "60",
+  "bid": "20",
+  "ask": "88",
+  "accvol": "73",
+  "open": "64",
+  "prev": "1",
+  "change": "77",
+  "changepct": "43",
+  "type": "32",
+  "msg": "74"
+},{
+  "_id": {
+    "$oid": "604bbb6fe6bcd7e57083c9c1"
+  },
+  "symbol": "ZLY",
+  "price": "27",
+  "bid": "34",
+  "ask": "71",
+  "accvol": "36",
+  "open": "73",
+  "prev": "33",
+  "change": "74",
+  "changepct": "41",
+  "type": "64",
+  "msg": "67"
+},{
+  "_id": {
+    "$oid": "604bbb71e6bcd7e57083c9c2"
+  },
+  "symbol": "TNS",
+  "price": "0",
+  "bid": "25",
+  "ask": "49",
+  "accvol": "97",
+  "open": "92",
+  "prev": "23",
+  "change": "1",
+  "changepct": "32",
+  "type": "18",
+  "msg": "75"
+},{
+  "_id": {
+    "$oid": "604bbb72e6bcd7e57083c9c3"
+  },
+  "symbol": "LZX",
+  "price": "52",
+  "bid": "98",
+  "ask": "91",
+  "accvol": "79",
+  "open": "89",
+  "prev": "80",
+  "change": "65",
+  "changepct": "90",
+  "type": "44",
+  "msg": "91"
+},{
+  "_id": {
+    "$oid": "604bbb73e6bcd7e57083c9c4"
+  },
+  "symbol": "IUX",
+  "price": "47",
+  "bid": "95",
+  "ask": "43",
+  "accvol": "34",
+  "open": "3",
+  "prev": "27",
+  "change": "34",
+  "changepct": "85",
+  "type": "15",
+  "msg": "45"
+},{
+  "_id": {
+    "$oid": "604bbb74e6bcd7e57083c9c5"
+  },
+  "symbol": "TNS",
+  "price": "49",
+  "bid": "76",
+  "ask": "91",
+  "accvol": "92",
+  "open": "61",
+  "prev": "9",
+  "change": "78",
+  "changepct": "79",
+  "type": "24",
+  "msg": "85"
+},{
+  "_id": {
+    "$oid": "604bbb74e6bcd7e57083c9c6"
+  },
+  "symbol": "ZLY",
+  "price": "47",
+  "bid": "63",
+  "ask": "75",
+  "accvol": "76",
+  "open": "85",
+  "prev": "65",
+  "change": "28",
+  "changepct": "38",
+  "type": "60",
+  "msg": "44"
+},{
+  "_id": {
+    "$oid": "604bbb75e6bcd7e57083c9c7"
+  },
+  "symbol": "LZX",
+  "price": "35",
+  "bid": "51",
+  "ask": "0",
+  "accvol": "77",
+  "open": "10",
+  "prev": "48",
+  "change": "10",
+  "changepct": "49",
+  "type": "88",
+  "msg": "63"
+},{
+  "_id": {
+    "$oid": "604bbb79e6bcd7e57083c9c8"
+  },
+  "symbol": "ADC",
+  "price": "51",
+  "bid": "17",
+  "ask": "66",
+  "accvol": "9",
+  "open": "59",
+  "prev": "85",
+  "change": "25",
+  "changepct": "66",
+  "type": "94",
+  "msg": "77"
+},{
+  "_id": {
+    "$oid": "604bbb7be6bcd7e57083c9c9"
+  },
+  "symbol": "OUM",
+  "price": "65",
+  "bid": "2",
+  "ask": "86",
+  "accvol": "1",
+  "open": "39",
+  "prev": "59",
+  "change": "60",
+  "changepct": "83",
+  "type": "7",
+  "msg": "71"
+},{
+  "_id": {
+    "$oid": "604bbb7de6bcd7e57083c9ca"
+  },
+  "symbol": "LZX",
+  "price": "66",
+  "bid": "38",
+  "ask": "94",
+  "accvol": "68",
+  "open": "46",
+  "prev": "26",
+  "change": "63",
+  "changepct": "43",
+  "type": "14",
+  "msg": "1"
+},{
+  "_id": {
+    "$oid": "604bbb7de6bcd7e57083c9cb"
+  },
+  "symbol": "KCP",
+  "price": "39",
+  "bid": "38",
+  "ask": "11",
+  "accvol": "43",
+  "open": "78",
+  "prev": "9",
+  "change": "27",
+  "changepct": "50",
+  "type": "98",
+  "msg": "36"
+},{
+  "_id": {
+    "$oid": "604bbb7de6bcd7e57083c9cc"
+  },
+  "symbol": "NTO",
+  "price": "97",
+  "bid": "88",
+  "ask": "48",
+  "accvol": "18",
+  "open": "15",
+  "prev": "45",
+  "change": "76",
+  "changepct": "10",
+  "type": "2",
+  "msg": "11"
+},{
+  "_id": {
+    "$oid": "604bbb80e6bcd7e57083c9cd"
+  },
+  "symbol": "IUX",
+  "price": "98",
+  "bid": "20",
+  "ask": "20",
+  "accvol": "73",
+  "open": "10",
+  "prev": "12",
+  "change": "3",
+  "changepct": "47",
+  "type": "35",
+  "msg": "72"
+},{
+  "_id": {
+    "$oid": "604bbb80e6bcd7e57083c9ce"
+  },
+  "symbol": "NTO",
+  "price": "27",
+  "bid": "70",
+  "ask": "22",
+  "accvol": "79",
+  "open": "83",
+  "prev": "50",
+  "change": "52",
+  "changepct": "81",
+  "type": "12",
+  "msg": "67"
+},{
+  "_id": {
+    "$oid": "604bbb81e6bcd7e57083c9cf"
+  },
+  "symbol": "ADC",
+  "price": "61",
+  "bid": "81",
+  "ask": "65",
+  "accvol": "5",
+  "open": "3",
+  "prev": "26",
+  "change": "32",
+  "changepct": "61",
+  "type": "7",
+  "msg": "48"
+},{
+  "_id": {
+    "$oid": "604bbb84e6bcd7e57083c9d0"
+  },
+  "symbol": "ADC",
+  "price": "76",
+  "bid": "64",
+  "ask": "76",
+  "accvol": "69",
+  "open": "89",
+  "prev": "19",
+  "change": "54",
+  "changepct": "49",
+  "type": "47",
+  "msg": "61"
+},{
+  "_id": {
+    "$oid": "604bbb87e6bcd7e57083c9d1"
+  },
+  "symbol": "TNS",
+  "price": "28",
+  "bid": "27",
+  "ask": "15",
+  "accvol": "63",
+  "open": "33",
+  "prev": "87",
+  "change": "30",
+  "changepct": "74",
+  "type": "42",
+  "msg": "34"
+},{
+  "_id": {
+    "$oid": "604bbb88e6bcd7e57083c9d2"
+  },
+  "symbol": "ZLY",
+  "price": "5",
+  "bid": "70",
+  "ask": "42",
+  "accvol": "39",
+  "open": "39",
+  "prev": "59",
+  "change": "55",
+  "changepct": "85",
+  "type": "80",
+  "msg": "28"
+},{
+  "_id": {
+    "$oid": "604bbb88e6bcd7e57083c9d3"
+  },
+  "symbol": "NTO",
+  "price": "74",
+  "bid": "82",
+  "ask": "96",
+  "accvol": "48",
+  "open": "43",
+  "prev": "66",
+  "change": "30",
+  "changepct": "97",
+  "type": "19",
+  "msg": "5"
+},{
+  "_id": {
+    "$oid": "604bbb89e6bcd7e57083c9d4"
+  },
+  "symbol": "OUM",
+  "price": "55",
+  "bid": "51",
+  "ask": "67",
+  "accvol": "2",
+  "open": "6",
+  "prev": "89",
+  "change": "70",
+  "changepct": "38",
+  "type": "4",
+  "msg": "30"
+}]

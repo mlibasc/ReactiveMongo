@@ -33,10 +33,8 @@ public class ReactiveStockController {
     @GetMapping(value = "/allStocks", produces = MediaType.APPLICATION_STREAM_JSON_VALUE)
     public Flux<Stock> stocks(){
         Flux<Stock> all = stockService.getAllStocks();
-        Flux<Stock> allRepo = stockRepo.findWithTailableCursorBy();
-        log.info("yo");
         // Delay stock output by 100 milliseconds to relieve back pressure
-        return allRepo;
+        return all;
     }
 
     // Output a specific stock

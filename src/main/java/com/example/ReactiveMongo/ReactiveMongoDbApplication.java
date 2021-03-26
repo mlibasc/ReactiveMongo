@@ -10,29 +10,8 @@ import org.springframework.data.mongodb.repository.config.EnableReactiveMongoRep
 
 @SpringBootApplication
 @EnableReactiveMongoRepositories
-public class ReactiveMongoDbApplication /*implements CommandLineRunner*/ {
-
-	@Autowired
-	private StockRepository stockRepo;
-
-	@Value("classpath:iceStockL1.json")
-	private Resource resource;
-
+public class ReactiveMongoDbApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(ReactiveMongoDbApplication.class, args);
 	}
-
-	/*
-	@Override
-	public void run(String... args)throws Exception{
-		ObjectMapper objectMapper = new ObjectMapper();
-		List<IceStockL1> stockList = objectMapper.readValue(resource.getInputStream(), new TypeReference<List<IceStockL1>>() {});
-		Flux.fromIterable(stockList)
-				.delayElements(Duration.ofSeconds(2))
-				.flatMap(this.stockRepo::save)
-				.doOnComplete(() -> System.out.println("Complete"))
-				.subscribe();
-	}
-
-	 */
 }
